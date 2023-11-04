@@ -1,0 +1,223 @@
+country,code,inflation_rate,empty
+Bulgaria,BGR,8.5
+Burkina Faso,BFA,1.4
+Cabo Verde,CPV,5.2
+Cambodia,KHM,2
+Central African Republic,CAF,6.5
+China, People's Republic of,CHN,0.7
+Congo, Dem. Rep. of the,COD,19.1
+Costa Rica,CRI,0.7
+Croatia,HRV,8.6
+Cyprus,CYP,3.5
+Timor-Leste,TLS,6
+Denmark,DNK,4.1
+Dominican Republic,DOM,4.9
+,WE,13.8
+,WEOWORLD,6.9
+,EU,6.5
+Brunei Darussalam,BRN,1.7
+Equatorial Guinea,GNQ,2.4
+Italy,ITA,6
+Jamaica,JAM,6.5
+Mexico,MEX,5.5
+Puerto Rico,PRI,2.9
+Qatar,QAT,2.8
+Switzerland,CHE,2.2
+,MAE,4.7
+,OAE,4.3
+,EDE,18.9
+,OEMDC,8.5
+,MECA,18
+,SSA,15.8
+Andorra,AND,5.2
+Angola,AGO,13.1
+Argentina,ARG,121.7
+Armenia,ARM,3.5
+Australia,AUS,5.8
+Austria,AUT,7.8
+Bahrain,BHR,1
+Bangladesh,BGD,9
+Belgium,BEL,2.5
+Bhutan,BTN,5.2
+Botswana,BWA,5.9
+Brazil,BRA,4.7
+Tunisia,TUN,9.4
+Türkiye, Republic of,TUR,51.2
+Tuvalu,TUV,6.2
+Uganda,UGA,5.8
+United Kingdom,GBR,7.7
+Uzbekistan,UZB,10.2
+Vietnam,VNM,3.4
+Zambia,ZMB,10.6
+Zimbabwe,ZWE,314.5
+,ADVEC,4.6
+,EURO,5.6
+,AS5,3.6
+,DA,2.6
+Tajikistan,TJK,4.6
+Tanzania,TZA,4
+Bahamas, The,BHS,3.9
+Gambia, The,GMB,17
+Trinidad and Tobago,TTO,5.4
+Turkmenistan,TKM,5.9
+Ukraine,UKR,17.7
+United Arab Emirates,ARE,3.1
+United States,USA,4.1
+Uruguay,URY,6.1
+Vanuatu,VUT,9.3
+Venezuela,VEN,360
+West Bank and Gaza,WBG,3.4
+Yemen,YEM,14.9
+Slovak Republic,SVK,10.9
+Somalia,SOM,5.7
+Spain,ESP,3.5
+Saint Lucia,LCA,3.6
+Saint Vincent and the Grenadines,VCT,4.4
+Suriname,SUR,53.3
+Sweden,SWE,6.9
+Taiwan Province of China,TWN,2.1
+Thailand,THA,1.5
+Togo,TGO,5
+Tonga,TON,10.2
+Russian Federation,RUS,5.3
+San Marino,SMR,5.9
+Senegal,SEN,6.1
+Sierra Leone,SLE,42.9
+Singapore,SGP,5.5
+Slovenia,SVN,7.4
+Solomon Islands,SLB,4.9
+South Africa,ZAF,5.8
+South Sudan, Republic of,SSD,16.3
+Saint Kitts and Nevis,KNA,2.9
+Sudan,SDN,256.2
+Norway,NOR,5.8
+Oman,OMN,1.1
+Palau,PLW,12.5
+Panama,PAN,1.5
+Peru,PER,6.5
+Portugal,PRT,5.3
+Congo, Republic of ,COG,3.5
+Romania,ROU,10.7
+Rwanda,RWA,14.5
+Samoa,WSM,12
+São Tomé and Príncipe,STP,20.8
+Saudi Arabia,SAU,2.5
+Serbia,SRB,12.4
+Seychelles,SYC,-0.8
+Mongolia,MNG,12.3
+Mozambique,MOZ,7.4
+Myanmar,MMR,14.2
+Nauru,NRU,6.1
+Nepal,NPL,7.8
+New Zealand,NZL,4.9
+Nicaragua,NIC,9.1
+North Macedonia ,MKD,10
+Pakistan,PAK,29.2
+Papua New Guinea,PNG,5
+Paraguay,PRY,4.7
+Philippines,PHL,5.8
+Poland,POL,12
+Malawi,MWI,27.7
+Mali,MLI,5
+Mauritania,MRT,7.5
+Mauritius,MUS,7.8
+Micronesia, Fed. States of,FSM,5.3
+Moldova,MDA,13.3
+Montenegro,MNE,8.3
+Morocco,MAR,6.3
+Namibia,NAM,6
+Netherlands,NLD,4
+Niger,NER,4.6
+Nigeria,NGA,25.1
+Jordan,JOR,2.7
+Kazakhstan,KAZ,15
+Kiribati,KIR,9
+Korea, Republic of,KOR,3.4
+Kyrgyz Republic,KGZ,11.7
+Libya,LBY,3.4
+Lithuania,LTU,9.3
+Macao SAR,MAC,0.9
+Madagascar,MDG,10.5
+Malaysia,MYS,2.9
+Maldives,MDV,3.5
+Malta,MLT,5.8
+Marshall Islands,MHL,5.2
+Albania,ALB,4.8
+Algeria,DZA,9
+Antigua and Barbuda,ATG,5
+Aruba,ABW,4.5
+Azerbaijan,AZE,10.3
+Barbados,BRB,5.2
+Belarus,BLR,4.7
+Belize,BLZ,3.7
+Benin,BEN,5
+Bolivia,BOL,3
+Bosnia and Herzegovina,BIH,5.5
+Eswatini,SWZ,5.5
+Ethiopia,ETH,29.1
+France,FRA,5.6
+Germany,DEU,6.3
+Grenada,GRD,3.6
+Guatemala,GTM,6.3
+Guinea-Bissau,GNB,7
+Guyana,GUY,5.5
+Honduras,HND,6.4
+Hong Kong SAR,HKG,2.2
+India,IND,5.5
+Iraq,IRQ,5.3
+Indonesia,IDN,3.6
+Iran,IRN,47
+Ireland,IRL,5.2
+Israel,ISR,4.3
+Japan,JPN,3.2
+Kenya,KEN,7.7
+Kosovo,UVK,4.7
+Kuwait,KWT,3.4
+Lao P.D.R.,LAO,28.1
+Latvia,LVA,9.9
+Lesotho,LSO,6.9
+Liberia,LBR,10.6
+Luxembourg,LUX,3.2
+Burundi,BDI,20.1
+Cameroon,CMR,7.2
+Canada,CAN,3.6
+Chad,TCD,7
+Chile,CHL,7.8
+Colombia,COL,11.4
+Comoros,COM,11.1
+Côte d'Ivoire,CIV,4.3
+Czech Republic,CZE,10.9
+Djibouti,DJI,1.2
+Dominica,DMA,6.2
+Ecuador,ECU,2.3
+Egypt,EGY,23.5
+El Salvador,SLV,4.4
+Estonia,EST,10
+Fiji,FJI,3
+Finland,FIN,4.5
+Gabon,GAB,3.8
+Georgia,GEO,2.4
+Ghana,GHA,42.2
+Greece,GRC,4.1
+Guinea,GIN,8.3
+Haiti,HTI,43.6
+Hungary,HUN,17.7
+Iceland,ISL,8.6
+,AFQ,18.5
+,SSQ,19.7
+,APQ,5.2
+,AZQ,5.7
+,CBQ,13.2
+,CMQ,4.2
+,CAQ,37.6
+,EAQ,1.3
+,EEQ,8.6
+,EUQ,6.5
+,MEQ,13.9
+,NAQ,16.4
+,NMQ,4.2
+,PIQ,4.8
+,SAQ,8.1
+,SEQ,3.9
+,WEQ,5.6
+,WHQ,6.9
