@@ -10,6 +10,8 @@ curl = "https://www.imf.org/external/datamapper/api/v1/countries"
 request = urlopen(url)
 crequest = urlopen(curl)
 
+print("file has been executed successiful")
+
 #read urls
 data = request.read().decode('UTF-8')
 cdata = crequest.read().decode('UTF-8')
