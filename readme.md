@@ -21,4 +21,14 @@ Create another secret while on same map_project: Name: AWS_ACCESS_KEY_ID Secret(
 Click to add another secret: Name: AWS_SECRET_ACCESS_KEY : paste the one from github credentials- copy and paste there. Add secret
 
 
+Useful command-line tools:
+
+csvkit ... to manage and process CSVs: https://csvkit.readthedocs.io
+jq ... to manage json files: https://jqlang.github.io/jq/
+mapshaper ... to handle geospatial data: https://bit.ly/mapshaper-commands
+
+IMF inflation by country: https://www.imf.org/external/datamapper/PCPIPCH@WEO/WEOWORLD?year=2023
+
+IMF countries & regions: https://www.imf.org/external/datamapper/api/v1/countries
+
 
