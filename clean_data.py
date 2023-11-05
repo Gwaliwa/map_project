@@ -12,7 +12,7 @@ def myfloat(string):
         return False
 
 df= pd.read_csv("inflation1.csv", on_bad_lines='skip', encoding='utf-8')
-print(df.columns.tolist())
+#print(df.columns.tolist())
 #res = test_string.replace('.', '', 1).isdigit() 
 
 for index, row in df.iterrows():
@@ -22,7 +22,7 @@ for index, row in df.iterrows():
 
     if x != 'True':
         df.loc[index, 'inflation_rate'] = row['empty']
-        print(row['empty'])
+        #print(row['empty'])
     #else:
         #df.loc[x, 'inflation_rate'] = row['empty']
         #row['inflation_rate'] = row['empty']
@@ -48,5 +48,7 @@ df.loc[187, 'country'] = 'Czechia'
 df.loc[191, 'country'] = 'Egypt'
 df.loc[187, 'country'] = 'Czechia'
 
-print(df.to_string())
+#print(df.to_string())
+
 df.to_csv('inflation.csv', encoding='utf-8', index=False)
+print("clean data successiful run")

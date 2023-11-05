@@ -1,5 +1,6 @@
 import os 
 from urllib.request import urlopen 
+from subprocess import call
 
 #assign url in data storage
 url = "https://www.imf.org/external/datamapper/api/v1/PCPIPCH?periods=2023"
@@ -27,13 +28,14 @@ with open('countries.json','w') as cfile:
 #create a function
 #call a function that
 #convert file to csv
-def freshdata():
-    os.system('imf_to_csv.py')
-    os.system('clean_data.py')
 
-freshdata()
+call(["python", "imf_to_csv.py"])
+call(["python", "clean_data.py"])
+
 
 print("file has been executed successiful")
+
+
 
 
 

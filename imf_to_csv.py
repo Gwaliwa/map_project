@@ -42,12 +42,13 @@ cvc = '\n'.join([','.join(map(str,row)) for row in csvData])
 
 data_head = "country,code,inflation_rate,empty\n" + cvc
 
-print(data_head) 
+#print(data_head) 
 
 #save data in file called inflation.cvs
 
 with open('inflation1.csv', 'w') as file:
     file.write(data_head)
 
-def cleandata():
-    os.system('clean_data.py')
+#def cleandata():
+    #os.system('clean_data.py')
+print("imf to csv data successiful")
