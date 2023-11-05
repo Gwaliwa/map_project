@@ -31,4 +31,15 @@ IMF inflation by country: https://www.imf.org/external/datamapper/PCPIPCH@WEO/WE
 
 IMF countries & regions: https://www.imf.org/external/datamapper/api/v1/countries
 
+Full link to our data file: https://s3.amazonaws.com/media.johnkeefe.net/class-modules/inflation.csv
+
+
+Short link to that same data file: https://bit.ly/knight-data
+
+Sign in to your AWS account: https://aws.amazon.com/
+
+AWS "CORS" code for allowing other services to read data in our bucket: https://bit.ly/knight-cors
+
+AWS "policy" code for allowing our robot-user account to access our bucket: https://bit.ly/upload-policy
+
 
