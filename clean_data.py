@@ -48,7 +48,5 @@ df.loc[187, 'country'] = 'Czechia'
 df.loc[191, 'country'] = 'Egypt'
 df.loc[187, 'country'] = 'Czechia'
 
-
 print(df.to_string())
-
 df.to_csv('inflation.csv', encoding='utf-8', index=False)
